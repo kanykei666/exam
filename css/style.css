@@ -58,6 +58,7 @@ nav {
   line-height: 30.1px;
   color: white;
   span {
+    font-family: Orbitron;
     font-size: 32px;
     font-weight: 600;
   }
@@ -93,6 +94,7 @@ nav {
   font-weight: 500;
   color: white;
   padding: 14px 20px;
+  border: none;
 }
 .btn2 button {
   border: 1px solid rgba(100, 206, 245, 1);
